@@ -2,12 +2,12 @@
 
 ## Description
 
-Ce repository est une API qui permet d'enregistrer des incidents via une API REST.
+Ce repository est une api qui va permettre d'enregistrer des incidents via une api REST.
 
 ## Pourquoi
 
-Le but est de réaliser une API utile tout en approfondissant mes connaissances.
+Le but est de réaliser une api utile en permettant d'approfondire la connaissance
 
 ## Technologie
 
-L'API sera créée en .NET 10.0.
+L'api sera créer en .NET 10.0
